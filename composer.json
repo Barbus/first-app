@@ -1,0 +1,19 @@
+{
+    "name": "first-app/first-app",
+    "type": "library",
+    "description": "first-app",
+    "keywords": ["log","logging"],
+    "homepage": "https://github.com/Barbus/first-app",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jordi Boggiano",
+            "email": "j.boggiano@seld.be",
+            "homepage": "http://seld.be",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+} 
